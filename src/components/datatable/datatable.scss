@@ -1,0 +1,38 @@
+.datatable{
+    height: 600px;
+    padding: 20px;
+
+    .cellWithImg {
+        display: flex;
+        align-items: center;
+        
+        .cellImg{
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+    }
+
+    .cellWithStatus {
+        padding: 5px;
+        border-radius: 5px;
+        max-width: 50px;
+   
+        &.active{
+            color: green;
+            background-color: rgb(111, 214, 111);
+        }
+        &.pending{
+            color: goldenrod;
+            background-color: rgb(247, 228, 181);
+        }
+        &.passive{
+            color: crimson;
+            background-color: rgb(236, 145, 163);
+        }
+   
+    }
+    
+}
