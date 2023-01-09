@@ -34,5 +34,37 @@
         }
    
     }
+
+    .cellAction{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+
+        .viewButton{
+            padding: 2px 5px;
+            border-radius: 5px;
+            color: darkblue;
+            border: 1px solid rgb(38, 38, 180);
+            cursor: pointer;
+
+            &:hover{
+                color: white; 
+                background-color: rgb(34, 34, 207);
+            }
+        }
+        .deleteButton{
+            padding: 2px 5px;
+            border-radius: 5px;
+            color: crimson;
+            border: 1px solid rgb(219, 67, 98);
+            cursor: pointer;
+            &:hover{
+                color: white; 
+                background-color: rgb(231, 66, 99);
+            }
+        }
+
+
+    }
     
 }

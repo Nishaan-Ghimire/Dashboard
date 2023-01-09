@@ -19,7 +19,7 @@ const Home = () => {
      </div>
       <div className="charts">
         <Featured/>
-        <Chart/>
+        <Chart aspect={2/1} title="Profit and User traffic chart(in million)"/>
       </div>
       <div className="listContainer">
         <div className="listTitle">Latest Transaction</div>

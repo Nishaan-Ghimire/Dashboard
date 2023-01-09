@@ -11,11 +11,11 @@ const data = [
 ];
 
 
-const Chart = () => {
+const Chart = ({aspect,title}) => {
   return (
     <div className='chart'>
-      <div className="title">Profit and User traffic chart(in million)</div>
-     <ResponsiveContainer width="100%" aspect={2/1}>
+      <div className="title">{title}</div>
+     <ResponsiveContainer width="100%" aspect={aspect}>
         <LineChart
           width={500}
           height={300}
