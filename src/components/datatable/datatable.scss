@@ -1,7 +1,26 @@
 .datatable{
     height: 600px;
     padding: 20px;
+    .dataTableTitle{
+        width: 100%;
+        font-size: 22px;
+        color: grey;
+        font-weight: bold;
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
 
+        .addnew{
+            font-size: 15px;
+            text-decoration: none;
+            color: green;
+            border: 1px solid green;
+            border-radius: 12px;
+            padding: 5px 12px;
+            cursor: pointer;
+        }
+    }
     .cellWithImg {
         display: flex;
         align-items: center;
