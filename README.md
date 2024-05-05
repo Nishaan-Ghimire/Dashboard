@@ -6,7 +6,7 @@ This project is an Admin Dashboard built using React, designed to provide an int
 ## Features
 - **User Management:** Add, edit, and delete users with ease.
 - **Data Visualization:** Visual representation of important data through charts and graphs.
-- **Customizable Widgets:** Easily customize widgets to display relevant information.
+- **Customizable Widgets:** Easily customize widgets to display relevant information. 
 - **Responsive Design:** Ensures optimal viewing experience across a wide range of devices.
 
 ## Installation
@@ -32,9 +32,9 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 ## Project Images
  
-file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-21.png
+![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-21.png)
 
-file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-09.png
+![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-09.png)
 
 
-file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-00.png
+![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-00.png)
