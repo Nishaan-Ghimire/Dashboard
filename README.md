@@ -32,9 +32,9 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 ## Project Images
  
-![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-21.png)
+![Alt text](/home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-21.png)
 
-![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-09.png)
+![Alt text](/home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-09.png)
 
 
-![Alt text](file:///home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-00.png)
+![Alt text](/home/nishan/Pictures/Screenshots/Screenshot%20from%202024-05-05%2021-21-00.png)
