@@ -31,6 +31,11 @@ This project is an Admin Dashboard built using React, designed to provide an int
 Contributions are welcome! Feel free to submit pull requests or open issues for any bugs or feature requests.
 
 ## Project Images
+### Dark Theme
 [ ![Dashboard1](https://github.com/Nishaan-Ghimire/Dashboard/blob/main/Screenshot%20from%202024-05-05%2021-21-00.png)](https://raw.githubusercontent.com/Nishaan-Ghimire/Dashboard/main/Screenshot%20from%202024-05-05%2021-21-00.png)
- ![Dashboard2]([https://github.com/Nishaan-Ghimire/Dashboard/blob/main/Screenshot%20from%202024-05-05%2021-21-00.png](https://raw.githubusercontent.com/Nishaan-Ghimire/Dashboard/main/Screenshot%20from%202024-05-05%2021-21-09.png))
- ![Dashboard2](https://github.com/Nishaan-Ghimire/Dashboard/blob/main/Screenshot%20from%202024-05-05%2021-21-00.png)
+
+### User Section
+ ![Dashboard2](https://raw.githubusercontent.com/Nishaan-Ghimire/Dashboard/main/Screenshot%20from%202024-05-05%2021-21-09.png)
+
+### Light Theme 
+ ![Dashboard3](https://raw.githubusercontent.com/Nishaan-Ghimire/Dashboard/main/Screenshot%20from%202024-05-05%2021-21-21.png)
